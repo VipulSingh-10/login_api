@@ -28,6 +28,7 @@ This project is a simple yet robust **login API** built using **Spring Boot** an
 2.Navigate to the project directory and build the project
    ```bash
    cd login_api
-    mvn clean install 
+    mvn clean install
+   mvn spring-boot:run
    
    
