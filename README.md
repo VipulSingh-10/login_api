@@ -25,4 +25,9 @@ This project is a simple yet robust **login API** built using **Spring Boot** an
 1. Clone the repository:
    ```bash
    git clone https://github.com/VipulSingh-10/login_api.git
+2.Navigate to the project directory and build the project
+   ```bash
+   cd login_api
+    mvn clean install 
+   
    
